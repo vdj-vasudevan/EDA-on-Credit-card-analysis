@@ -25,16 +25,19 @@ Customers with Below Range are more intrested in Taking the Credit Card
 <br>
 Gender- Male
 <br>
-Age- 45 to 55<br>
-
-![age](https://user-images.githubusercontent.com/97030219/186473064-5f966db8-b6b4-49ab-a5b8-d5c72cc7506d.JPG)
-
+Age- 45 to 55
 <br>
-Region- ['RG268','RG283','RG254','RG284']<br>
-
-![region](https://user-images.githubusercontent.com/97030219/186473988-78a3f424-dc9f-4dbc-9ba2-dd128bc8f9a1.JPG)
-
+Region- ['RG268','RG283','RG254','RG284']
 <br>
 Channel Code - X2,X3
 <br>
 *Vintage- 91,92,93
+<br>
+
+![region](https://user-images.githubusercontent.com/97030219/186473988-78a3f424-dc9f-4dbc-9ba2-dd128bc8f9a1.JPG)
+
+<br>
+
+![age](https://user-images.githubusercontent.com/97030219/186473064-5f966db8-b6b4-49ab-a5b8-d5c72cc7506d.JPG)
+
+<br>
